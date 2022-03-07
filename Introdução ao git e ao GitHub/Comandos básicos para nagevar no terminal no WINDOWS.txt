@@ -1,0 +1,5 @@
+- CD : Mudar de Diretório
+- MKDIR : Criar Diretórios
+- DE/RMDIR : Deletar Sistemas
+- DIR : Listar Repositorios
+

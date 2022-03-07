@@ -1,0 +1,26 @@
+A sigla SHA significa (Secure Hash Algorithm) Tradução: Algoritmo de Hash Seguro.
+É um conjunto de funções hash criptógrafadas progetadas pela NSA 
+( Agência De Segurança Nacional dos EUA).
+A encriptação gera um conjunto de caracteres identificador, são 40 dígitos.
+SHA1 é uma forma curta de representar um arquivo.
+---------------------------------------------------------------------------
+             Objetos internos do Git
+
+- BLOBS
+- TREES
+- COMMITS
+----------------------------------------------------------------------------
+
+Chave SSH - É uma forma de estabelecer uma conexão segura e incriptada entre duas 
+maquinas.
+
+-----------------------------------------------------------------------------
+
+                Para Iniciar O Répositorio do Git
+
+- git init
+- git add
+- git commit
+
+
+----------------------------------------------------------------------------
